@@ -42,7 +42,7 @@
     "now": "^20.1.2",
     "os": "^0.1.2",
     "parse-srt": "^1.0.0-alpha",
-    "postcss-easy-import": "3.0.0",
+    "postcss-easy-import": "4.0.0",
     "postcss-loader": "6.2.1",
     "prop-types": "^15.8.0",
     "raw-loader": "^4.0.2",
